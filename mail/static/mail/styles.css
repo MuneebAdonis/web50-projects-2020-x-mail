@@ -1,0 +1,24 @@
+textarea {
+    min-height: 400px;
+}
+
+.box {
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+    border-radius: 7pt;
+    padding: 10px;
+    margin: 10px;}
+
+.read {
+    background-color: rgb(167, 156, 156);
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+    border-radius: 7pt;
+    padding: 10px;
+    margin: 10px;}
+
+button{
+    margin-right: 5px;
+}
